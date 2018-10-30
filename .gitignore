@@ -105,3 +105,6 @@ venv.bak/
 
 # MNIST Data
 MNIST_data/
+
+checkpoints/
+*.pkl
